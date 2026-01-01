@@ -20,7 +20,7 @@ vacha "Received: " + update_data
 vrita(update_data, "sys_log.txt") // Automatically syncs to log
 
 2. Dhatu Operative System (D-OS)
-The Dhatu OS isn't a traditional kernel-based OS like Linux; instead, it is a Meta-OS or a "Shell Environment" that runs on top of the Windows/Batch kernel but takes total control of the hardware and boot process.
+The Dhatu OS isn't a traditional kernel-based OS like Linux; instead, it is a Meta-OS or a "Shell Environment" that runs on top of the Batch kernel but takes total control of the hardware and boot process.
 The Boot Timing & Processing:
 To optimize Boot Timing, Dhatu uses a "Parallel Root" execution. Instead of Batch's linear execution, Dhatu analyzes the script and runs independent blocks simultaneously using start /b.
 | Boot Phase | Dhatu Command | Action |
