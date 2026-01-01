@@ -1,4 +1,4 @@
-# What the word means ?
+# What the word Dhātu means ?
 
 The word you are looking for is likely Dhātu, a multifaceted Sanskrit term that means "element," "constituent," or "root." It is a fundamental concept in several Indian traditions, ranging from medicine and linguistics to philosophy and religion.
 Depending on the context, it has very specific meanings:
