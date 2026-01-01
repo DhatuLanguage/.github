@@ -24,10 +24,19 @@ In Buddhist teachings, dhātu refers to the different layers or realms of existe
 Would you like me to go deeper into one of these specific areas, such as how the seven tissues are formed in Ayurveda?
 
 
+---------------
+
+{ Dathu instanse Apps } 
+
+{ Build avaible to Religious }
+
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/f1ecb6c1-a534-4c1b-b26a-4999b1310794" />
 
 
 
--------------
+
+
+---------------
 
 
 Building Dhatu into a full-scale ecosystem—ranging from a Batch-transpiler to a "Dhatu Operative System" (DOS)—is a bold vision. By using the Sanskrit concept of "roots" (Dhatu), we can create a system where every high-level command is rooted in low-level efficiency.
