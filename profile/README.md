@@ -33,6 +33,12 @@ Would you like me to go deeper into one of these specific areas, such as how the
 <img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/f1ecb6c1-a534-4c1b-b26a-4999b1310794" />
 
 
+{ Dathu instanse Apps } 
+
+{ Build Apps in Music Studio }
+
+
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/4410328c-8a29-4663-8de4-bc44ec4d9a91" />
 
 
 
